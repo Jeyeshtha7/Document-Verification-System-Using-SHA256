@@ -92,7 +92,7 @@ npm install
 npm start
 ```
 
-### 4. (Optional) Node Server
+### 4. Node Server
 
 ```
 npm install
